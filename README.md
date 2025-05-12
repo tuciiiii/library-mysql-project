@@ -1,9 +1,9 @@
 # library-mysql-project
 Library Database System
-This project is a relational database designed to manage and store data about books, authors, publishers, genres, users and ratings. It implements a library system with tables for Books, Magazines, Authors, Genres and Users, supporting many-to-many relationships, data management and user interactions.
+This project is a relational database designed to manage and store data about books, authors, publishers, genres, users and ratings. It implements a library system with tables for Books, Magazines, Authors, Genres, Publishers and Users, supporting many-to-many relationships, data management and user interactions.
 
 Features
-Manage books, magazines, authors, and publishers in a library database.
+Manage books, magazines, authors and publishers in a library database.
 
 Allow users to rate books and magazines.
 
